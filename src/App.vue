@@ -288,7 +288,48 @@
     </section>
     
     <section class="gallery">
-      Gallery
+      <figure class="gallery__item gallery__item--1">
+        <img src="./assets/images/hotel-1.jpg" alt="Gallery image 1" class="gallery__img">
+      </figure>
+      <figure class="gallery__item gallery__item--2">
+        <img src="./assets/images/hotel-2.jpg" alt="Gallery image 2" class="gallery__img">
+      </figure>
+      <figure class="gallery__item gallery__item--3">
+        <img src="./assets/images/hotel-3.jpg" alt="Gallery image 3" class="gallery__img">
+      </figure>
+      <figure class="gallery__item gallery__item--4">
+        <img src="./assets/images/hotel-1.jpg" alt="Gallery image 1" class="gallery__img">
+      </figure>
+      <figure class="gallery__item gallery__item--5">
+        <img src="./assets/images/hotel-2.jpg" alt="Gallery image 2" class="gallery__img">
+      </figure>
+      <figure class="gallery__item gallery__item--6">
+        <img src="./assets/images/hotel-3.jpg" alt="Gallery image 3" class="gallery__img">
+      </figure>
+      <figure class="gallery__item gallery__item--7">
+        <img src="./assets/images/hotel-1.jpg" alt="Gallery image 1" class="gallery__img">
+      </figure>
+      <figure class="gallery__item gallery__item--8">
+        <img src="./assets/images/hotel-2.jpg" alt="Gallery image 2" class="gallery__img">
+      </figure>
+      <figure class="gallery__item gallery__item--9">
+        <img src="./assets/images/hotel-3.jpg" alt="Gallery image 3" class="gallery__img">
+      </figure>
+      <figure class="gallery__item gallery__item--10">
+        <img src="./assets/images/hotel-1.jpg" alt="Gallery image 1" class="gallery__img">
+      </figure>
+      <figure class="gallery__item gallery__item--11">
+        <img src="./assets/images/hotel-2.jpg" alt="Gallery image 2" class="gallery__img">
+      </figure>
+      <figure class="gallery__item gallery__item--12">
+        <img src="./assets/images/hotel-3.jpg" alt="Gallery image 3" class="gallery__img">
+      </figure>
+      <figure class="gallery__item gallery__item--13">
+        <img src="./assets/images/hotel-1.jpg" alt="Gallery image 1" class="gallery__img">
+      </figure>
+      <figure class="gallery__item gallery__item--14">
+        <img src="./assets/images/hotel-2.jpg" alt="Gallery image 2" class="gallery__img">
+      </figure>
     </section>
     
     <footer class="footer">
