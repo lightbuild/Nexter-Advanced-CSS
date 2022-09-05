@@ -72,11 +72,17 @@
     </section>
     
     <div class="story__pictures">
-      Story pictures
+      <img src="./assets/images/hotel-1.jpg" alt="Couple with new house" class="story__img--1">
+      <img src="./assets/images/hotel-3.jpg" alt="New house" class="story__img--2">
     </div>
     
     <div class="story__content">
-      Story content
+      <h3 class="heading-3 mb-sm">Happy Customers</h3>
+      <h2 class="heading-2 heading-2--dark mb-md">&ldquo;The best decision of our lives&rdquo;</h2>
+      <p class="story__text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aut doloribus ea, facilis laboriosam magnam natus obcaecati odio, officia quae quam quas quidem quo!
+      </p>
+      <button class="btn">Find your own home</button>
     </div>
     
     <section class="homes">
