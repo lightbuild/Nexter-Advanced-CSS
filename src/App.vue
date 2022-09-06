@@ -9,21 +9,40 @@
     </div>
     
     <header class="header">
-      Header
-      Header
-      Header
-      Header
-      Header
-      Header
-      Header
-      Header
-      Header
-      Header
-      Header
+      <img src="./assets/images/logo.png" alt="Nexter Logo" class="header__logo">
+      <h3 class="heading-3">Your own home:</h3>
+      <h1 class="heading-1">The ultimate personal freedom</h1>
+      <button class="btn header__btn">View our properties</button>
+      <div class="header__seenon-text">Seen on</div>
+      <div class="header__seenon-logos">
+        <img src="./assets/images/logo-bbc.png" alt="Seen on logo 1">
+        <img src="./assets/images/logo-bbc.png" alt="Seen on logo 2">
+        <img src="./assets/images/logo-bbc.png" alt="Seen on logo 3">
+        <img src="./assets/images/logo-bbc.png" alt="Seen on logo 4">
+      </div>
     </header>
     
     <div class="realtors">
-      Top 3 realtors
+      <h3 class="heading-3">Top 3 realtors</h3>
+      <div class="realtors__list">
+        <img src="./assets/images/user-1.jpg" alt="Realotor 1" class="realtors__img">
+        <div class="realtors__details">
+          <h4 class="heading-4 heading-4--light">Erik Feinman</h4>
+          <p class="realtors__sold">245 houses sold</p>
+        </div>
+        
+        <img src="./assets/images/user-2.png" alt="Realotor 2" class="realtors__img">
+        <div class="realtors__details">
+          <h4 class="heading-4 heading-4--light">Kim Brown</h4>
+          <p class="realtors__sold">212 houses sold</p>
+        </div>
+        
+        <img src="./assets/images/user-3.jpg" alt="Realotor 3" class="realtors__img">
+        <div class="realtors__details">
+          <h4 class="heading-4 heading-4--light">Toby Ramsey</h4>
+          <p class="realtors__sold">198 houses sold</p>
+        </div>
+      </div>
     </div>
     
     <section class="features">
