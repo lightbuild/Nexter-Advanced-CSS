@@ -5,7 +5,7 @@
 <template>
   <div class="container">
     <div class="sidebar">
-      Sidebar
+      <button class="nav-btn"></button>
     </div>
     
     <header class="header">
