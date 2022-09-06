@@ -108,7 +108,7 @@
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aut doloribus ea, facilis laboriosam magnam
         natus obcaecati odio, officia quae quam quas quidem quo!
       </p>
-      <button class="btn">Find your own home</button>
+      <button class="btn story__btn">Find your own home</button>
     </div>
     
     <section class="homes">
